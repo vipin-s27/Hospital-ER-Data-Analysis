@@ -16,7 +16,7 @@ It helps hospital management make data-driven decisions and improve overall effi
 -	Which departments receive the highest number of referrals?
 -	What percentage of patients were attended on time vs. delayed?
 
-**Dashboard Interaction** <a href="https://github.com/vipin-s27/Hospital-ER-Data-Analysis/blob/main/Dashboard_Preview.png">View Dashboard</a>
+**Dashboard Interaction** - <a href="https://github.com/vipin-s27/Hospital-ER-Data-Analysis/blob/main/Dashboard_Preview.png">View Dashboard</a>
 
 ## Process
 - Imported raw hospital emergency data into Excel.
@@ -29,7 +29,6 @@ It helps hospital management make data-driven decisions and improve overall effi
 
 ## Dashboard
 <img width="1849" height="694" alt="Dashboard_Preview" src="https://github.com/user-attachments/assets/2d3b2df2-bf80-4418-b191-3adb7047c5ef" />
-
 
 ## Insights
 (Based on data for April 2024 — values may vary for other months)
